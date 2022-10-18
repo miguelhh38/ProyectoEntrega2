@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WEAR SHOP</string>
+    <string name="textViewPrincipal">WEAR SHOP</string>
+    <string name="textViewPrecio">Precio: 80€</string>
+    <string name="buttonAñadir">Añadir al carrito</string>
+    <string name="txtNombre">Nombre:</string>
+    <string name="txtDireccion">Direccion:</string>
+    <string name="txtCheck">Deseo recibir informacion sobre ofertas</string>
+    <string name="buttonConfirmar">Confirmar</string>
+    <string name="activity3">Datos de envio</string>
+    <string name="textactivity2">PRECIO TOTAL:</string>
+    <string name="botonactivity2">Pagar</string>
+    <string name="imagen">imagen</string>
+</resources>
